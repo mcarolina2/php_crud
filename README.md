@@ -1,3 +1,2 @@
 # php_crud
- CRUD php com csv
- exercitando um pouco do que foi aprendido no curso de informática para internet-IFPE
+Segue um CRUD simples com PHP puro e os dados estão salvos em um arquivo csv
