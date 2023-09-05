@@ -42,10 +42,6 @@
     <h1>Lista de Cadastro</h1>
     <div class="tabela">
     <table>
-            <tr>
-                <th>Nome</th>
-                <th>Email</th>
-            </tr>
         <?php foreach($dados as $linha => $row): ?>
             <?php $partes = explode(',', $row) ?>
             <tr>
